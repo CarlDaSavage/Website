@@ -68,5 +68,14 @@ nav img{
     font-size: 14px;
     color: #121212;
 }
+.join-here{
+    display: inline-block;
+    text-decoration: none;
+    color: #043857;
+    border: 1px solid #043857;
+    padding: 12px 36px;
+    position: relative;
+    cursor: pointer;
+}
     
     
