@@ -6,7 +6,7 @@
 .header{
     min-height:100vh;
     width:100%;
-    background-image: linear-gradient(rgba(8, 141, 220,0.7),rgba(8, 141, 220,0.7)),url(https://github.com/Yacob535/Website/blob/f4b4a7f05398ffe5fa61873a32342061bbfd2bfa/Banner.PNG);
+    background-image: linear-gradient(rgba(8, 141, 220,0.7),rgba(8, 141, 220,0.7)),url(Banner.PNG);
     background-position:center;
     background-size: cover;
     position: relative;
