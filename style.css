@@ -34,6 +34,7 @@ nav img{
 .navigation ul li a{
     background-color: #043857;
     padding: 10px;
+    width:100%;
     color: #fff;
     text-decoration: none;
     font-size: 20px;
@@ -50,4 +51,22 @@ nav img{
 .navigation ul li:hover::after{
     width:100%;
 }
-        
+.main-text{
+    width:90%;
+    color: #121212;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.main-text h1{
+    font-size: 62px;
+}
+.main-text p{
+    margin: 10px 0 40px;
+    font-size: 14px;
+    color: #121212;
+}
+    
+    
