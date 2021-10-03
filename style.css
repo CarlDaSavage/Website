@@ -70,6 +70,7 @@ nav img{
 }
 .join-here{
     display: inline-block;
+    font-size: 45px;
     border-radius: 15px;
     text-decoration: none;
     color: #121212;
