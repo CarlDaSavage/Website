@@ -71,7 +71,6 @@ nav img{
 .join-here{
     display: inline-block;
     border-radius: 15px;
-    background-color: #bf3030;
     text-decoration: none;
     color: #fff;
     border: 1px solid #bd1111;
@@ -79,8 +78,14 @@ nav img{
     position: absolute;
     bottom: 10%;
     left: 50%;
+    background: transparent;
     transform: translate(-50%,275%);
     cursor: pointer;
+}
+.join-here:hover{
+    border: 1px solid #bf3030;
+    background-color: #bf3030;
+    transition: 0.7s;
 }
     
     
