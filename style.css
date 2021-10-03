@@ -6,7 +6,7 @@
 .header{
     min-height:100vh;
     width:100%;
-    background-image: linear-gradient(url(Banner.PNG);
+    background-image: url(Banner.PNG);
         /*
     background-position:center;
     background-size: cover;
