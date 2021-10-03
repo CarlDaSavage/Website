@@ -7,7 +7,7 @@
 .header{
     min-height:100vh;
     width:100%;
-    background-image: linear-gradient(rgba(8, 141, 220,0.7),rgb(8, 141, 220,0.7)),url(https://yacob535.github.io/Banner.PNG);
+    background-image: linear-gradient(rgba(8, 141, 220,0.7),rgb(8, 141, 220,0.7));
     background-position:center;
     background-size: cover;
     position: relative;
@@ -19,7 +19,7 @@ nav{
     align-items: center;
 }
 nav img{
-    width: 10px;
+    width: 150px;
 }
 .navigation{
     flex:1;
@@ -33,7 +33,16 @@ nav img{
 }
 .navigation ul li a{
     background-color: #043857;
+    padding: 10px;
     color: #fff;
     text-decoration: none;
     font-size: 20px;
+}
+.navigation ul li::after{
+    content: '';
+    width: 0%;
+    height: 3px;
+    background: #043857;
+    display: block;
+    margin: auto;
 }
