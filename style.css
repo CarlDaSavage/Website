@@ -42,7 +42,7 @@ nav img{
     content: '';
     width: 0%;
     height: 3px;
-    background: #043857;
+    background: #fff;
     display: block;
     margin: auto;
 }
