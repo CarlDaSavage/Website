@@ -79,7 +79,7 @@ nav img{
     position: absolute;
     bottom: 10%;
     left: 50%;
-    transform: translate(0,-50%);
+    transform: translate(-500%,-50%);
     cursor: pointer;
 }
     
