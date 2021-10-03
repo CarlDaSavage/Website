@@ -11,3 +11,21 @@
     background-size: cover;
     position: relative;
 }
+nav{
+    display: felx;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+nav img{
+    width: 150px;
+}
+.navigation{
+    flex:1;
+    text-align: right;
+}
+.navigation ul li{
+    list-style:none;
+    display: inline-blocks;
+    padding: 8px 12px;
+}
