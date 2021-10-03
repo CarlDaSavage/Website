@@ -45,4 +45,9 @@ nav img{
     background: #fff;
     display: block;
     margin: auto;
+    transition: 0.5s;
 }
+.navigation ul li:hover::after{
+    width:100%;
+}
+        
