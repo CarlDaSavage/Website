@@ -71,9 +71,9 @@ nav img{
 .join-here{
     display: inline-block;
     text-decoration: none;
-    color: #043857;
-    border: 1px solid #043857;
-    padding: 12px 36px;
+    color: #ff0000;
+    border: 1px solid #ff0000;
+    padding: 24px 72px;
     position: relative;
     cursor: pointer;
 }
