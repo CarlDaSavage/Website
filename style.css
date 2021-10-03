@@ -76,8 +76,8 @@ nav img{
     color: #fff;
     border: 1px solid #bd1111;
     padding: 24px 72px;
-    position: relative;
-    padding: 0 0 100px;
+    top 80%;
+    left: 50%;
     cursor: pointer;
 }
     
