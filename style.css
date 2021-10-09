@@ -78,8 +78,9 @@ nav img{
     bottom: 10%;
     left: 50%;
     background: transparent;
-    cursor: pointer;
     transform: translate(-50%, 100%);
+    cursor: pointer;
+    
 }
 /*
 .join-here:hover{
