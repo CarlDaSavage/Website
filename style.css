@@ -68,25 +68,26 @@ nav img{
     color: #121212;
 }
 .join-here{
-    display: inline-block;
     font-size: 25px;
     border-radius: 15px;
     text-decoration: none;
     color: #121212;
-    border: 1px solid #bd1111;
+    border: 1px solid;
     padding: 24px 72px;
-    position: absolute;
+    position: 24px 30px;
     bottom: 10%;
     left: 50%;
     background: transparent;
-    transform: translate(-50%, 100%);
     cursor: pointer;
+    transform: translate(-50%, 100%);
 }
+/*
 .join-here:hover{
     border: 1px solid #bf3030;
     background-color: #bf3030;
     transition: 0.7s;
 }
+*/
 
 nav .fas{
     display.none;
@@ -113,3 +114,40 @@ nav .fas{
     
 }
     
+.join-here{
+  animation: in 0.5s forwards;
+}
+.join-here:hover{
+  animation: out 0.5s forwards;
+}
+
+@keyframes out {
+0% {
+  box-shadow: -10.3px 10.3px 0px #4d68ef ,
+}
+50% {
+  box-shadow: -10.3px 10.3px 0px #4d68ef , -20.7px 20.7px 0px #345ea2 ,
+}
+100% {
+  box-shadow: -10.3px 10.3px 0px #4d68ef , -20.7px 20.7px 0px #345ea2 ,
+  -31px 31px 0px #1a2b4d;
+  transform: translate(31px,-31px);
+ }
+}
+
+@keyframes in {
+0% {
+  box-shadow: -10.3px 10.3px 0px #4d68ef , -20.7px 20.7px 0px #345ea2 ,
+  -31px 31px 0px #1a2b4d;
+  transform: translate(31px,-31px);
+}
+33% {
+  box-shadow: -10.3px 10.3px 0px #4d68ef , -20.7px 20.7px 0px #345ea2 ,
+}
+66% {
+  box-shadow: -10.3px 10.3px 0px #4d68ef ,
+}
+100% {
+  box-shadow: -10.3px 10.3px 0px #4d68ef ,
+ }
+}
