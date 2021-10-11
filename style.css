@@ -94,6 +94,15 @@ nav .fas{
     display.none;
 }
 
+.faq-main-text{
+    width:90%;
+    color: #121212;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /*transform: translate(-50%,-50%);*/
+    text-align: center;
+    
 @media(max-width: 700px){
     .main-text h1{
         font-size: 20px;
