@@ -110,6 +110,13 @@ nav .fas{
     padding: 20px 12px;
     box-sizing: border-box;
 }
+.col p{
+    background-color:#e07034;
+}
+
+.col h3{
+    background-color:#e07034;
+}
     
 @media(max-width: 700px){
     .main-text h1{
