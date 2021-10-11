@@ -102,6 +102,11 @@ nav .fas{
     font-size: 14px;
     color: #121212;
 }
+.row{
+    margin-top: 5%;
+    display:flex;
+    justify-content: space-between;
+}
     
 @media(max-width: 700px){
     .main-text h1{
