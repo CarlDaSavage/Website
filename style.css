@@ -104,18 +104,18 @@ nav .fas{
 
 .col{
     flex-basis: 31%;
-    background-color: #e07034;
+    background-color: #1782c2;
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
     box-sizing: border-box;
 }
 .col p{
-    background-color:#e07034;
+    background-color:#1782c2;
 }
 
 .col h3{
-    background-color:#e07034;
+    background-color:#1782c2;
 }
     
 @media(max-width: 700px){
