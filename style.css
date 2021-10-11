@@ -109,7 +109,7 @@ nav .fas{
     line-height: 1.6;
 }
 
-.col{
+.col1{
     flex-basis: 31%;
     background-color: #1782c2;
     border-radius: 10px;
@@ -117,11 +117,27 @@ nav .fas{
     padding: 20px 12px;
     box-sizing: border-box;
 }
-.col p{
+.col1 p{
     background-color:#1782c2;
 }
 
-.col h3{
+.col1 h3{
+    background-color:#1782c2;
+}
+
+.col2{
+    flex-basis: 31%;
+    background-color: #1782c2;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+.col2 p{
+    background-color:#1782c2;
+}
+
+.col2 h3{
     background-color:#1782c2;
 }
     
