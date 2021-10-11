@@ -50,7 +50,7 @@ nav img{
 .navigation ul li:hover::after{
     width:100%;
 }
-.main-text{
+.home-main-text{
     width:90%;
     color: #121212;
     position: absolute;
@@ -59,10 +59,10 @@ nav img{
     transform: translate(-50%,-50%);
     text-align: center;
 }
-.main-text h1{
+.home-main-text h1{
     font-size: 62px;
 }
-.main-text p{
+.home-main-text p{
     margin: 10px 0 40px;
     font-size: 14px;
     color: #121212;
