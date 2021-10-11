@@ -124,12 +124,14 @@ nav .fas{
     box-sizing: border-box;
 }
 .col1 p{
-    font-weight: 1500;
+    font-size: 20px;
+    font-weight: 700;
     background-color:#4ba5db;
 }
 
 .col1 h3{
-    font-weight: 700;
+    font-size: 40px;
+    font-weight: 1500;
     background-color:#4ba5db;
 }
 
@@ -142,11 +144,13 @@ nav .fas{
     box-sizing: border-box;
 }
 .col2 p{
-    font-weight: 1500;
+    font-size: 20px;
+    font-weight: 700;
     background-color:#4ba5db;
 }
 
 .col2 h3{
+    font-size: 40px;
     font-weight: 1500;
     background-color:#4ba5db;
 }
