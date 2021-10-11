@@ -56,6 +56,7 @@ nav img{
     text-align: center;
 }
 .home-main-text h1{
+    font-weight: 900;
     font-size: 62px;
 }
 .home-main-text p{
@@ -90,6 +91,7 @@ nav .fas{
     text-align: center;
 }
 .faq-main-text h1{
+    font-weight: 900;
     font-size: 35px;
 }
 .faq-main-text p{
@@ -98,6 +100,7 @@ nav .fas{
     color: #121212;
 }
 .row1{
+    font-weight: 900;
     margin-top: 5%;
     margin-left: 10%;
     margin-right: 10%;
@@ -106,6 +109,7 @@ nav .fas{
     line-height: 1.6;
 }
 .row2{
+    font-weight: 900;
     margin-left: 10%;
     margin-right: 10%;
     justify-content: space-between;
