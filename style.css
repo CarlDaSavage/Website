@@ -91,14 +91,14 @@ nav .fas{
     color: #121212;
     position: absolute;
     top: 20%;
-    left: 7%;
+    left: 40%;
     text-align: center;
 }
 .faq-main-text h1{
     font-size: 35px;
 }
 .faq-main-text p{
-    margin: 10px 0 -40px;
+    margin: 10px 0 40px;
     font-size: 14px;
     color: #121212;
 }
