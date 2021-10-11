@@ -110,34 +110,34 @@ nav .fas{
 
 .col1{
     flex-basis: 31%;
-    background-color: #1782c2;
+    background-color: #4ba5db;
     border-radius: 10px;
     margin-bottom: 3%;
     padding: 20px 12px;
     box-sizing: border-box;
 }
 .col1 p{
-    background-color:#1782c2;
+    background-color:#4ba5db;
 }
 
 .col1 h3{
-    background-color:#1782c2;
+    background-color:#4ba5db;
 }
 
 .col2{
     flex-basis: 31%;
-    background-color: #1782c2;
+    background-color: #4ba5db;
     border-radius: 10px;
     margin-bottom: 3%;
     padding: 20px 12px;
     box-sizing: border-box;
 }
 .col2 p{
-    background-color:#1782c2;
+    background-color:#4ba5db;
 }
 
 .col2 h3{
-    background-color:#1782c2;
+    background-color:#4ba5db;
 }
     
 @media(max-width: 700px){
