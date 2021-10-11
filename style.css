@@ -107,6 +107,7 @@ nav .fas{
     margin-right: 10%;
     display:flex;
     justify-content: space-between;
+    line-height: 1.6;
 }
 
 .col{
