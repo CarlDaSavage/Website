@@ -94,7 +94,6 @@ nav .fas{
     color: #121212;
 }
 .row{
-    background-color: #e07034;
     margin-top: 5%;
     margin-left: 10%;
     margin-right: 10%;
@@ -105,7 +104,7 @@ nav .fas{
 
 .col{
     flex-basis: 31%;
-    background: #e07034;
+    color: #e07034;
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
