@@ -98,10 +98,10 @@ nav .fas{
     width:90%;
     color: #121212;
     position: absolute;
-    top: 50%;
+    top: 10%;
     left: 50%;
     /*transform: translate(-50%,-50%);*/
-    text-align: center;
+    text-align: left;
 }
 .faq-main-text h1{
     font-size: 62px;
