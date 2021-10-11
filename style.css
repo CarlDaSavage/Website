@@ -5,12 +5,7 @@
 }
 
 .header{
-    min-height:100vh;
-    width:100%;
-    background-image: linear-gradient(rgba(8, 141, 220,0.7),rgb(8, 141, 220,0.7));
-    background-position:center;
-    background-size: cover;
-    position: relative;
+    background:rgba(8, 141, 220,0.7);    
 }
 nav{
     display: flex;
