@@ -8,6 +8,7 @@
     background-color: #34a0e0;
 }
 nav{
+    font-weight: 1500;
     display: flex;
     padding: 2% 6%;
     justify-content: space-between;
@@ -94,6 +95,7 @@ nav .fas{
     font-size: 35px;
 }
 .faq-main-text p{
+    font-weight: 700;
     margin: 10px 0 40px;
     font-size: 14px;
     color: #121212;
@@ -122,6 +124,7 @@ nav .fas{
     box-sizing: border-box;
 }
 .col1 p{
+    font-weight: 700;
     background-color:#4ba5db;
 }
 
