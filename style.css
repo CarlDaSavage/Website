@@ -146,7 +146,15 @@ nav .fas{
     font-weight: 1500;
     background-color:#4ba5db;
 }
-
+.main-button{
+    width:90%;
+    background: url('img/red_transparent_background.png');
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-400%);
+    text-align: center;
+}
 .join-here {
   position: relative;
   display: inline-block;
