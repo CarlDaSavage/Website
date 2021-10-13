@@ -8,10 +8,10 @@
     background-color: #34a0e0;
     --backgroundColor: rgba(246, 241, 209);
     --colorShadeA: rgb(137, 207, 240); /*button colour*/
-    --colorShadeB: #121212; /* Second box, bottom line*/
-    --colorShadeC: rgb(0, 150, 255);
-    --colorShadeD: #c92e36;
-    --colorShadeE: rgb(0, 71, 171);
+    --colorShadeB: rgb(0,255,255); /* Second box, bottom line*/
+    --colorShadeC: #0a74bf; /*Second Layer Colour*/
+    --colorShadeD: #c92e36; /*Colour changes to after hover*/
+    --colorShadeE: rgb(0, 71, 171); /*button colour*/
 }
 nav{
     display: flex;
