@@ -8,7 +8,7 @@
     background-color: #34a0e0;
     --backgroundColor: rgba(246, 241, 209);
     --colorShadeA: rgb(137, 207, 240); /*button colour*/
-    --colorShadeB: rgb(0,255,255); /* Second box, bottom line*/
+    --colorShadeB: rgb(246, 241, 209); /* Second box, bottom line*/
     --colorShadeC: #0a74bf; /*Second Layer Colour*/
     --colorShadeD: #c92e36; /*Colour changes to after hover*/
     --colorShadeE: rgb(0, 71, 171); /*button colour*/
