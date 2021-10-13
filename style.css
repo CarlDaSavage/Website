@@ -10,8 +10,8 @@
     --colorShadeA: rgb(137, 207, 240); /*button colour*/
     --colorShadeB: #121212; /* Second box, bottom line*/
     --colorShadeC: rgb(0, 150, 255);
-    --colorShadeD: rgb(0, 71, 171);
-    --colorShadeE: #c92e36;
+    --colorShadeD: #c92e36;
+    --colorShadeE: rgb(0, 71, 171);
 }
 nav{
     display: flex;
