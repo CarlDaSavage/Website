@@ -214,6 +214,21 @@ button.join-here:active::before {
 
 }
 
+.su-main-text{
+    color: #121212;
+    position: absolute;
+    top: 25%;
+    text-align: center;
+}
+
+.su-main-text h1{
+    font-weight: 1500;
+    font-size: 65px;
+}
+    
+
+
+
 @media(max-width: 700px){
     .main-text h1{
         font-size: 20px;
