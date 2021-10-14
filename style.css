@@ -230,7 +230,9 @@ button.join-here:active::before {
     text-align:center;
     position: relative;
     top 5%;
+    color: #121212;
     text-decoration: none;
+    
 }
 
 .our-links p{
@@ -241,6 +243,7 @@ button.join-here:active::before {
 
 .our-links a{
     text-decoration: none;
+    color: #121212;
 }
     
 
