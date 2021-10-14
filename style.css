@@ -237,6 +237,13 @@ button.join-here:active::before {
     font-weight: 700;
     font-size: 20px;
 }
+
+.our-links a{
+    text-align:center;
+    position: relative;
+    top 5%;
+    text-decoration: none;
+}
     
 
 
