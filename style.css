@@ -227,9 +227,10 @@ button.join-here:active::before {
 }
 
 .our-links{
-    text-align:center;
+    text-align:left;
     position: relative;
-    top 5%;
+    top: 5%;
+    left: 20%;
     color: #121212;
     text-decoration: none;
     
