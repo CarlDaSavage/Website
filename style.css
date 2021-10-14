@@ -225,6 +225,18 @@ button.join-here:active::before {
     font-weight: 1500;
     font-size: 65px;
 }
+
+.our-links{
+    text-align:center;
+    position: relative;
+    top 5%;
+    text-decoration: none;
+}
+
+.our-links p{
+    font-weight: 700;
+    font-size: 20px;
+}
     
 
 
