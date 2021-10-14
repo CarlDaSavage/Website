@@ -216,7 +216,7 @@ button.join-here:active::before {
 
 .su-main-text{
     color: #121212;
-    position: absolute;
+    position: relative;
     top: 25%;
     text-align: center;
 }
