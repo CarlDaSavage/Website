@@ -236,6 +236,7 @@ button.join-here:active::before {
 .our-links p{
     font-weight: 700;
     font-size: 20px;
+    color: #121212;
 }
 
 .our-links a{
