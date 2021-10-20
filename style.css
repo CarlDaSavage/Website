@@ -264,8 +264,28 @@ button.join-here:active::before {
 .tyvm h1{
     font-weight: 2000;
     font-size: 60px;
-    
 }
+
+.wwa{
+    text-align:center;
+    position: relative;
+    top: 5%;
+    color: #121212;
+}
+
+.wwa h1{
+    font-weight: 2000;
+    font-size: 40px;
+}
+
+.wwa p{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+
+    
+    
     
 
 
