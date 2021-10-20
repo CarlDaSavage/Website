@@ -150,7 +150,7 @@ nav .fas{
     background: url('img/red_transparent_background.png');
     position: relative;
     top: 10%;
-    /*transform: translate(-50%,-400%);*/
+    transform: translate(-50%,-100%);
     text-align: center;
 }
 .join-here {
