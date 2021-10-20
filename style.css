@@ -149,7 +149,7 @@ nav .fas{
     width:80%;
     background: url('img/red_transparent_background.png');
     position: relative;
-    top: 10%;
+    bottom: 10%;
     left: 50%;
     transform: translate(-50%);
     text-align: center;
