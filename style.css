@@ -269,7 +269,7 @@ button.join-here:active::before {
 .wwa{
     text-align:center;
     position: relative;
-    top: 10%;
+    margin-top: 10%;
     color: #121212;
 }
 
