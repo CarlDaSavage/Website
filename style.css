@@ -148,7 +148,7 @@ nav .fas{
 .main-button{
     width:80%;
     background: url('img/red_transparent_background.png');
-    position: absolute;
+    position: relative;
     top: 100%;
     left: 50%;
     transform: translate(-50%,-400%);
