@@ -274,8 +274,8 @@ button.join-here:active::before {
     flex-basis: 31%;
     background-color: #4ba5db;
     border-radius: 10px;
-    margin-right: 3%;
-    margin-left: 5%;
+    margin-right: 10%;
+    margin-left: 10%;
     margin-bottom: 3%;
     padding: 20px 12px;
     box-sizing: border-box;
