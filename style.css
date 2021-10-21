@@ -55,7 +55,7 @@ nav img{
     width:90%;
     color: #121212;
     position: absolute;
-    top: 15%;
+    top: 25%;
     left:5%;
     text-align: center;
 }
@@ -159,7 +159,7 @@ nav .fas{
     background: url('img/red_transparent_background.png');
     position: absolute;
     left: 10%;
-    top:25%;
+    top:45%;
     text-align: center;
 }
 /*
