@@ -57,10 +57,10 @@ nav img{
     position: relative;
     left:5%;
     text-align: center;
-    font-weight: 5500;
 }
 .home-main-text h1{    
     font-size: 62px;
+    font-weight: 5500;
 }
 .home-main-text p{
     margin: 10px 0 40px;
@@ -148,7 +148,7 @@ nav .fas{
     background: url('img/red_transparent_background.png');
     position: relative;
     left: 10%;
-    margin-top:5%;
+    margin-top:10%;
     text-align: center;
 }
 .join-here {
