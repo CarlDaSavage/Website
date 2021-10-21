@@ -54,11 +54,21 @@ nav img{
 .home-main-text{
     width:90%;
     color: #121212;
+    position: absolute;
+    margin-top: 10%;
+    left:50%;
+    text-align: center;
+}
+/*
+.home-main-text{
+    width:90%;
+    color: #121212;
     position: relative;
     margin-top: 10%;
     left:5%;
     text-align: center;
 }
+*/
 .home-main-text h1{
     font-weight: 1500;
     font-size: 62px;
