@@ -326,6 +326,13 @@ button.join-here:active::before {
     font-size: 20px;
     background-color:#4ba5db;
 }
+
+.text-box-au p2{
+    text-align:left;
+    font-weight: 7000;
+    font-size: 20px;
+    background-color:#4ba5db;
+}
     
 
     
