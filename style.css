@@ -302,6 +302,7 @@ button.join-here:active::before {
     border-radius: 10px;
     margin-bottom: 3%;
     padding: 20px 12px;
+    margin-top:5%;
     box-sizing: border-box;
 }
 
