@@ -271,16 +271,26 @@ button.join-here:active::before {
     position: relative;
     margin-top: 10%;
     color: #121212;
+    flex-basis: 31%;
+    background-color: #4ba5db;
+    border-radius: 10px;
+    margin-bottom: 3%;
+    padding: 20px 12px;
+    box-sizing: border-box;
 }
 
 .wwa h1{
     font-weight: 2000;
     font-size: 40px;
+    background-color:#4ba5db;
+    
 }
 
 .wwa p2{
     font-weight: 700;
     font-size: 30px;
+    background-color:#4ba5db;
+    
 }
 
 
