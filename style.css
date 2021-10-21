@@ -57,9 +57,9 @@ nav img{
     position: relative;
     left:5%;
     text-align: center;
+    font-weight: 5500;
 }
-.home-main-text h1{
-    font-weight: 55000;
+.home-main-text h1{    
     font-size: 62px;
 }
 .home-main-text p{
