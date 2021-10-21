@@ -157,11 +157,21 @@ nav .fas{
 .main-button{
     width:80%;
     background: url('img/red_transparent_background.png');
+    position: absolute;
+    left: 10%;
+    margin-top:25%;
+    text-align: center;
+}
+/*
+.main-button{
+    width:80%;
+    background: url('img/red_transparent_background.png');
     position: relative;
     left: 10%;
     margin-top:5%;
     text-align: center;
 }
+*/
 .join-here {
   position: relative;
   display: inline-block;
