@@ -270,7 +270,7 @@ button.join-here:active::before {
 .wwa{
     text-align:center;
     position: relative;
-    margin-top: 10%;
+    margin-top: 15%;
     color: #121212;
     flex-basis: 31%;
     background-color: #4ba5db;
@@ -302,7 +302,6 @@ button.join-here:active::before {
     border-radius: 10px;
     margin-bottom: 3%;
     padding: 20px 12px;
-    margin-top:5%;
     box-sizing: border-box;
 }
 
