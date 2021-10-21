@@ -54,21 +54,11 @@ nav img{
 .home-main-text{
     width:90%;
     color: #121212;
-    position: absolute;
-    top: 25%;
-    left:5%;
-    text-align: center;
-}
-/*
-.home-main-text{
-    width:90%;
-    color: #121212;
     position: relative;
-    margin-top: 10%;
+    margin-top: -10%;
     left:5%;
     text-align: center;
 }
-*/
 .home-main-text h1{
     font-weight: 1500;
     font-size: 62px;
@@ -157,21 +147,11 @@ nav .fas{
 .main-button{
     width:80%;
     background: url('img/red_transparent_background.png');
-    position: absolute;
-    left: 10%;
-    top:45%;
-    text-align: center;
-}
-/*
-.main-button{
-    width:80%;
-    background: url('img/red_transparent_background.png');
     position: relative;
     left: 10%;
-    margin-top:5%;
+    margin-top:-5%;
     text-align: center;
 }
-*/
 .join-here {
   position: relative;
   display: inline-block;
